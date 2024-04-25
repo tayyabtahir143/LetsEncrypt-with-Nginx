@@ -252,7 +252,7 @@ Note: we can copy the configuration from prod.conf file which is already configu
 server{
 	server_name	prod.aus.tayyabtahir.net;
 	location /{
-		root /usr/share/nginx/prod.aus.tayyabtahir.net/public_html;
+		root /usr/share/nginx/prod.aus.tayyabtahir.net;
 		index	index.html;
 		}
 
@@ -281,7 +281,7 @@ server{
 server{
 	server_name	stage.aus.tayyabtahir.net;
 	location /{
-		root /usr/share/nginx/stage.aus.tayyabtahir.net/public_html;
+		root /usr/share/nginx/stage.aus.tayyabtahir.net;
 		index	index.html;
 		}
 
@@ -310,7 +310,7 @@ server{
 server{
 	server_name	test.aus.tayyabtahir.net;
 	location /{
-		root /usr/share/nginx/test.aus.tayyabtahir.net/public_html;
+		root /usr/share/nginx/test.aus.tayyabtahir.netl;
 		index	index.html;
 		}
 
