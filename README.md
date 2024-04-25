@@ -201,7 +201,7 @@ server{
 
 }[root@TayyabsFedora ~]#</pre>
 
-![Alt text](URL)
+![Alt text](prod.png)
 
 # Now lets get the wildcard certificate with dns challenge.
 We required dns provider token to allow certbot to do add the temporary record in public dns.
