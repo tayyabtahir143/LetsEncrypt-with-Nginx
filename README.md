@@ -341,3 +341,7 @@ server{
 
 lets access the site on the web and verify the certificate.
 
+
+![Alt text](URL)
+![Alt text](URL)
+![Alt text](URL)
