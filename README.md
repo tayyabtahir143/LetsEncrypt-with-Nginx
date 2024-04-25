@@ -344,4 +344,4 @@ lets access the site on the web and verify the certificate.
 
 ![Alt text](prod-wildcard.png)
 ![Alt text](stage-wildcard.png)
-![Alt text](test.wildcard.png)
+![Alt text](Test.wildcard.png)
